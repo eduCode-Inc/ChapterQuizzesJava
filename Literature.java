@@ -123,10 +123,4 @@ System.out.println("Chapter 5: A Face In The Dark");
        System.out.println("\nYour answers:\n"+youranswers);
        System.out.println("Answer key:\n1 (D)\n2 (B)\n3 (C)\n4 (D)\n5 (C)\n6 (A)\n7 (D)\n8 (A)\n9 (A)\n10 (B)");
     }
-    public void MOVA2S5() { //merchant of venice act 2 scene 5
-
-    }
-    public void MOVA2S6() { //mov act 2 scene 6
-
-    }
 }
